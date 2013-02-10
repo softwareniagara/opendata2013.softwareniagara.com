@@ -1,32 +1,29 @@
 {
-	"name": "html5-boilerplate.docpad",
-	"version": "0.1.0",
+	"name": "opendata2013.softwareniagara.com",
+	"version": "0.0.1",
 	"private": true,
-	"description": "HTML5 Boilerplate skeleton for DocPad. Bare essentials for building a modern website with best practices.",
-	"homepage": "https://github.com/docpad/html5-boilerplate.docpad",
+	"description": "The website for the Open Data Day 2013 Hackathon organized by Software Niagara",
+	"homepage": "http://opendata2013.softwareniagara.com",
 	"keywords": [
-		"docpad-skeleton",
-		"docpad",
-		"website",
-		"skeleton",
-		"html5 boilerplate",
-		"h5bp"
+		"open data",
+		"hackathon",
+		"software niagara"
 	],
-	"author": "Bevry Pty Ltd <us@bevry.me> (http://bevry.me)",
+	"author": "Nickolas Kenyeres <nkenyeres@gmail.com> (http://knicklabs.github.com)",
 	"maintainers": [
-		"Benjamin Lupton <b@lupton.cc> (http://balupton.com)"
+		"Nickolas Kenyeres <nkenyeres@gmail.com> (http://knicklabs.github.com)"
 	],
 	"contributors": [
-		"Benjamin Lupton <b@lupton.cc> (http://balupton.com)"
+		"Nickolas Kenyeres <nkenyeres@gmail.com> (http://knicklabs.github.com)"
 	],
 	"bugs": {
-		"url": "https://github.com/docpad/html5-boilerplate.docpad/issues"
+		"url": "https://github.com/softwareniagara/opendata2013.softwareniagara.com/issues"
 	},
-	"repository" : {
-		"type" : "git",
-		"url" : "http://github.com/docpad/html5-boilerplate.docpad.git"
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/softwareniagara/opendata2013.softwareniagara.com.git"
 	},
-	"engines" : {
+	"engines": {
 		"node": "0.8.x",
 		"npm": "1.1.x"
 	},

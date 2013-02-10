@@ -1,0 +1,81 @@
+body {
+	background: white url('../images/dots.png') top left repeat;
+	font-family: Georgia, serif;
+	padding: 90px 0;
+}
+
+hgroup {
+	margin-bottom: 2em;
+}
+
+hgroup h1, hgroup h2, hgroup h3, hgroup h4, hgroup h5, hgroup h6 {
+	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin-bottom: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Special Elite', serif;
+}
+
+h1 {
+	font-size: 1.6em;
+}
+
+h2 {
+	font-size: 1.3em;
+}
+
+h3 {
+	font-size: 1.2em;
+}
+
+h4, h5, h6 {
+	font-size: 1.1em;
+}
+
+blockquote {
+	margin-bottom: 2em;
+}
+
+blockquote cite,
+blockquote p {
+	color: #222;
+}
+
+blockquote cite a,
+blockquote cite a:visited,
+blockquote p a,
+blockquote p a:visited {
+	color: white;
+}
+
+a {
+	background-color: #222;
+	color: white;
+	display: inline-block;
+	padding: .25em;
+}
+
+a:hover {
+	background-color: #000;
+	color: white;
+}
+
+.date {
+	background-color: #222;
+	padding: 1em 0;
+	font-family: 'Special Elite', serif;
+	font-size: 4em;
+	color: white;
+	text-align: center;
+	margin-bottom: .5em;
+}
+
+@media only screen and (max-width: 767px) {
+	body {
+		padding: 30px 0;
+	}
+}

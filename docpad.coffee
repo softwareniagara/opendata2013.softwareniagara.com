@@ -12,25 +12,24 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://website.com"
+			url: "http://opendata2013.softwareniagara.com"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [
-				'www.website.com',
-				'website.herokuapp.com'
+				'opendata2013-softwareniagara-com.herokuapp.com'
 			]
 
 			# The default title of our website
-			title: "Your Website"
+			title: "International Open Data Day 2013 Hackathon Organized by Software Niagara"
 
 			# The website description (for SEO)
 			description: """
-				When your website appears in search results in say Google, the text here will be shown underneath your website's title.
+				The International Open Data Day Hackathon is an all-day event organized by Software Niagara on February 23, 2013.
 				"""
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website
+				open data, software niagara, hackathon, international open data day, niagara
 				"""
 
 
