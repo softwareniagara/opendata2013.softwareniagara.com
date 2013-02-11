@@ -20,7 +20,7 @@ docpadConfig = {
 			]
 
 			# The default title of our website
-			title: "International Open Data Day 2013 Hackathon Organized by Software Niagara"
+			title: "Software Niagara's International Open Data Day 2013 Hackathon Organized"
 
 			# The website description (for SEO)
 			description: """
