@@ -2,14 +2,11 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
+   Nickolas Kenyeres -- Developer -- @knicklabs
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+   Docpad
+   HTML5, CSS3
+   jQuery, Modernizr
+   Foundation
