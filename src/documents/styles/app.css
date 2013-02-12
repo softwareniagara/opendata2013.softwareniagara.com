@@ -53,11 +53,16 @@ blockquote p a:visited {
 	color: white;
 }
 
+a.block {
+	display: block;
+	text-align: center;
+	padding: .5em 0;
+	margin-bottom: .5em;
+}
+
 a {
 	background-color: #222;
 	color: white;
-	display: inline-block;
-	padding: .25em;
 }
 
 a:hover {

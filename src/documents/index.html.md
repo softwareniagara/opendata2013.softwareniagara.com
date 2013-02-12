@@ -31,17 +31,25 @@ scientists, librarians, statiticians, and citizens.
 Participants can work on their own projects or join an existing project. Here are some projects that you may work on:
 
 * [Vote in Public](http://github.com/softwareniagara/voteinpublic.com) - Create or consume geospatial polls
+* <mark>Your own project</mark>. If you have a project you would like to work on, email [info@softwareniagara.com](mailto:info@softwarenaigara.com) 
+or send a [pull request](http://github.com/softwareniagara/opendata2013.softwareniagara.com) to have it listed here.
 
-If you have a project you would like to work on, email [info@softwareniagara.com](mailto:info@softwareniagara.com) 
-or send a pull request to have it listed here.
+### What data do we have to work with?
 
-### When is it; where do I go; and how much does it cost?
+Here are sources of public open data in Niagara that we are aware of:
 
-Open Data Day Hackathon is on February 23, 2013 from 9:00AM to 5:00PM at Furi Enterprises on St. Paul Street, St. Catharines. It is 
-a FREE event. 
+* [Open Data Niagara](http://www.niagararegion.ca/government/opendata/default.aspx)
+* [Open Data from City of Niagara Falls](http://www.niagarafalls.ca/services/open/default.aspx)
 
-Look up Furi on [Google Maps](https://maps.google.ca/maps?ie=UTF8&cid=12135825959244488980&q=Furi+Enterprises+Inc&iwloc=A&gl=CA&hl=en)
+### When is it? where do I go? And how much does it cost?
+
+<mark>Open Data Day Hackathon is on February 23, 2013 from 9:00AM to 5:00PM at Furi Enterprises on St. Paul Street, St. Catharines. It is 
+a FREE event.</mark> 
+
+Look up [Furi](http://www.furi.ca) on [Google Maps](https://maps.google.ca/maps?ie=UTF8&cid=12135825959244488980&q=Furi+Enterprises+Inc&iwloc=A&gl=CA&hl=en)
 to find out where to go.
+
+Please [register](http://opendatahackathon2013niagara.eventbrite.com) at EventBrite so we know how many people to expect.
 
 ### Still not sure?
 
