@@ -38,8 +38,9 @@ or send a [pull request](http://github.com/softwareniagara/opendata2013.software
 
 Here are sources of public open data in Niagara that we are aware of:
 
-* [Open Data Niagara](http://www.niagararegion.ca/government/opendata/default.aspx)
-* [Open Data from City of Niagara Falls](http://www.niagarafalls.ca/services/open/default.aspx)
+* [Niagara Open Data Initiative](http://niagaraodi.cloudapp.net/)
+* [Niagara Region Open Data](http://www.niagararegion.ca/government/opendata/default.aspx)
+* [Niagara Falls Open Data](http://www.niagarafalls.ca/services/open/default.aspx)
 
 ### When is it? where do I go? And how much does it cost?
 
